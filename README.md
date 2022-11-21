@@ -9,4 +9,4 @@ npm run dev
 ```
 ###### By default server will open in  [ http://localhost:5173](http://localhost:5173/)
 
-[Live Demo ](https://react-reviews-dark.netlify.app/)
+[Live Demo ](https://tours-vite-react.netlify.app/)
